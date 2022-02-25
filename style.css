@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #EEE;
+}
+.container{
+    background-color: #E4F9F5;
+    max-width: 1000px;
+    max-height: 1000px;
+    background-color: aqua;
+    margin: 0 auto;
+    padding: 20px;
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.heder-part{
+    color:green;
+    float: left;
+    padding: 20px;
+}
+.header-contact{
+    float: right;
+    padding: 20px;
+}
+.header-contact a{
+    text-decoration: none;
+    font-size: 20px;
+    color: green;
+}
+.header-contact a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.clear{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.main-part1{
+    margin: 10px;
+
+}
+.chottomain{
+    width: 30%;
+    float: left;
+    color: green;
+}
+.boromain{
+    width: 70%;
+    float: right;
+    color: green;
+}
+.common{
+    border: 2px solid gray;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.chottomain1{
+    width: 30%;
+    float: left;
+    color: green;
+}
+.boromain2{
+    width: 70%;
+    float: right;
+    color: green;
+}
+
+.boromain3{
+    width: 70%;
+    float: right;
+    color: green;
+}
+.common2{
+    border: 2px solid gray;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.Education{
+    width: 30%;
+    float: left;
+    color: green;
+}
+.education-first{
+    width: 70%;
+    float: right;
+    color: green;
+}
+.education-tamplete-left{
+    width: 45%;
+    float: left;
+    color: green;
+}
+.education-tamplete-right{
+    width: 45%;
+    float: right;
+    color: green;
+}
+.Refer-part-1{
+    float: left;
+    width: 30%;
+    color: green;
+
+}
+.Refer-part-first{
+    float: right;
+    width: 70%;
+    color: green;
+}
+.Refer-part-left{
+    width: 45%;
+    float: left;  
+    color: green;
+}
+.Refer-part-right{
+    width: 45%;
+    float: right;
+    color: green;
+}
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    color: white;
+    margin-top: 20px;
+}
+
